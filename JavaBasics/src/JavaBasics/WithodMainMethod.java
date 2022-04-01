@@ -10,7 +10,7 @@ only once when the class is loaded into the memory by Java ClassLoader,
 It is also known as a static initialization block.
 Static initialization block is going directly into the stack memory.
 
-Example
+Example//
 class StaticInitializationBlock{
    static{
       System.out.println("class without a main method");

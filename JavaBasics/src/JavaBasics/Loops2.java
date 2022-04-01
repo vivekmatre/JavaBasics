@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Loops2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub//
 		
 		int a,b=0;
 		for(a=1;a<=10;a++)

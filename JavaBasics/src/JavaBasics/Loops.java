@@ -7,7 +7,7 @@ public class Loops {
 		
 		int i,j,k;
 		System.out.println("Printing 1 to 10 using While Loop");	
-		// Print 1 to 10 While Loop
+		// Print 1 to 10 While Loop//
 	i=1;
 		while(i<=10)
 		{

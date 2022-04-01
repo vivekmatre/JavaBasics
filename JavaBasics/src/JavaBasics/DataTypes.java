@@ -6,7 +6,7 @@ public class DataTypes {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//
 		int i=10;
 		//int i =20; // Duplicate variable is not allowed in JAVA, However
 		i = 20; //is allowed because it overrides previous value. now i has value 20

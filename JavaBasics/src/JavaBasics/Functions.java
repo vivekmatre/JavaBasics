@@ -2,7 +2,7 @@ package JavaBasics;
 
 public class Functions {
 
-	//Execution Entry
+	//Execution Entry//
 	public static void main(String[] args) {
 		
 		Functions fn = new Functions();

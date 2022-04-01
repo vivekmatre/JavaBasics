@@ -7,7 +7,7 @@ public class StaticArray {
 		// Array : To Store similar data type values in a single array variable
 		//Lowest bound/index : 0
 		//Upper bound/index : n-1 (where n is the size of the array)
-		// One Dimensional Array
+		// One Dimensional Array//
 		
 		/*Disadvantages
 		 * Size is Fixed : Static Array
